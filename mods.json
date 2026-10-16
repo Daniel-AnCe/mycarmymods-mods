@@ -1,20 +1,18 @@
 [
   {
-    "nome": "f-100 dragon",
-    "descricao": "f-100 com plotagem de dragão",
-    "versao": "v1.0.9",
-    "data_publicacao": "15/10/2026"
+    "nome": "Realistic Car Pack",
+    "descricao": "Adiciona vários carros realistas",
+    "versao": "1.2.0",
+    "data_publicacao": "12/05/2025",
+    "tamanho": "512 MB",
+    "download": "https://i.imgur.com/abcdef.png"
   },
-{
-    "nome": "f-1000 fish",
-    "descricao": "f-1000 com plotagem de peixe",
-    "versao": "v1.0.9",
-    "data_publicacao": "15/10/2026"
-  },
-{
-    "nome": "f-1000 fish",
-    "descricao": "f-1000 com plotagem de peixe teste",
-    "versao": "v1.0.9",
-    "data_publicacao": "15/10/2026"
+  {
+    "nome": "Better Roads",
+    "descricao": "Melhora a qualidade das estradas",
+    "versao": "2.0.0",
+    "data_publicacao": "10/05/2025",
+    "tamanho": "248 MB",
+    "download": "https://raw.githubusercontent.com/Daniel-AnCe/mycarmymods-mods/main/plotagens/better_roads.png"
   }
 ]
